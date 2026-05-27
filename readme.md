@@ -25,3 +25,8 @@ pwd    # outputs current path, e.g. /home/user/projects
 mkdir myfolder        # create a single folder
 mkdir -p a/b/c        # create nested directories
 
+### `rm` — Remove Files or Directories
+```bash
+rm file.txt           # delete a file
+rm -rf myfolder/      # force-delete a directory recursively
+
