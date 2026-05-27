@@ -45,3 +45,7 @@ mv file.txt /tmp/        # move file to another directory
 chmod 755 script.sh     # rwx for owner, rx for group and others
 chmod +x script.sh      # add execute permission for everyone
 
+### `git init` — Initialize a Repository
+```bash
+git init    # creates a .git folder in the current directory
+
