@@ -58,3 +58,8 @@ git clone git@github.com:user/repo.git    # clone via SSH
 git add file.txt    # stage a specific file
 git add .           # stage all changes in current directory
 
+### `git commit` — Save a Snapshot
+```bash
+git commit -m "Your message here"    # commit with inline message
+git commit --amend                   # edit the last commit message
+
