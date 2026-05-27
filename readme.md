@@ -26,6 +26,7 @@ cd ~             # go to home directory
 ### `pwd` — Print Working Directory
 ```bash
 pwd    # outputs current path, e.g. /home/user/projects
+```
 
 ### `mkdir` — Make Directory
 ```bash
