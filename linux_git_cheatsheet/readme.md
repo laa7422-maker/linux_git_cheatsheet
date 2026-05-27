@@ -9,6 +9,7 @@ A quick-reference guide to essential Linux and Git commands.
 - Git Commands
 
 ---
+
 ### `ls` — List Directory Contents
 ```bash
 ls        # basic list
@@ -56,6 +57,8 @@ mv file.txt /tmp/        # move file to another directory
 chmod 755 script.sh     # rwx for owner, rx for group and others
 chmod +x script.sh      # add execute permission for everyone
 ```
+
+---
 
 ### `git init` — Initialize a Repository
 ```bash
