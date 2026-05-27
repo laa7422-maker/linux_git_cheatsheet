@@ -49,3 +49,7 @@ chmod +x script.sh      # add execute permission for everyone
 ```bash
 git init    # creates a .git folder in the current directory
 
+### `git clone` — Clone a Remote Repository
+```bash
+git clone git@github.com:user/repo.git    # clone via SSH
+
