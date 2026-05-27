@@ -30,3 +30,8 @@ mkdir -p a/b/c        # create nested directories
 rm file.txt           # delete a file
 rm -rf myfolder/      # force-delete a directory recursively
 
+### `cp` — Copy Files or Directories
+```bash
+cp file.txt backup.txt        # copy a file
+cp -r folder/ newfolder/      # copy a directory recursively
+
