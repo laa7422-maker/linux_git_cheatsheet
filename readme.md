@@ -63,3 +63,9 @@ git add .           # stage all changes in current directory
 git commit -m "Your message here"    # commit with inline message
 git commit --amend                   # edit the last commit message
 
+### `git branch` — Manage Branches
+```bash
+git branch                  # list all local branches
+git branch new-feature      # create a new branch
+git branch -d old-branch    # delete a merged branch
+
