@@ -16,3 +16,7 @@ cd /home/user    # go to absolute path
 cd ..            # go up one level
 cd ~             # go to home directory
 
+### `pwd` — Print Working Directory
+```bash
+pwd    # outputs current path, e.g. /home/user/projects
+
