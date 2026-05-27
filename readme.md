@@ -40,3 +40,8 @@ cp -r folder/ newfolder/      # copy a directory recursively
 mv old.txt new.txt       # rename a file
 mv file.txt /tmp/        # move file to another directory
 
+### `chmod` — Change File Permissions
+```bash
+chmod 755 script.sh     # rwx for owner, rx for group and others
+chmod +x script.sh      # add execute permission for everyone
+
