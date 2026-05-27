@@ -69,3 +69,8 @@ git branch                  # list all local branches
 git branch new-feature      # create a new branch
 git branch -d old-branch    # delete a merged branch
 
+### `git merge` — Merge Branches
+```bash
+git checkout main
+git merge feature/cmd-ls    # merge a feature branch into main
+
