@@ -53,3 +53,8 @@ git init    # creates a .git folder in the current directory
 ```bash
 git clone git@github.com:user/repo.git    # clone via SSH
 
+### `git add` — Stage Changes
+```bash
+git add file.txt    # stage a specific file
+git add .           # stage all changes in current directory
+
