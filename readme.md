@@ -20,3 +20,8 @@ cd ~             # go to home directory
 ```bash
 pwd    # outputs current path, e.g. /home/user/projects
 
+### `mkdir` — Make Directory
+```bash
+mkdir myfolder        # create a single folder
+mkdir -p a/b/c        # create nested directories
+
