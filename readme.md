@@ -10,3 +10,9 @@ A quick-reference guide to essential Linux and Git commands.
 
 ---
 
+### `cd` — Change Directory
+```bash
+cd /home/user    # go to absolute path
+cd ..            # go up one level
+cd ~             # go to home directory
+
