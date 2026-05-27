@@ -74,3 +74,9 @@ git branch -d old-branch    # delete a merged branch
 git checkout main
 git merge feature/cmd-ls    # merge a feature branch into main
 
+### `git push` — Push to Remote
+```bash
+git push origin main          # push main branch to GitHub
+git push -u origin main       # push and set upstream tracking
+git push origin --all         # push all branches to GitHub
+
