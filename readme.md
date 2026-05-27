@@ -1,5 +1,6 @@
 # Linux & Git Command Cheat Sheet
 
+
 A quick-reference guide to essential Linux and Git commands.
 
 ---
@@ -9,6 +10,11 @@ A quick-reference guide to essential Linux and Git commands.
 - Git Commands
 
 ---
+### `ls` — List Directory Contents
+```bash
+ls        # basic list
+ls -la    # detailed list including hidden files
+```
 
 ### `cd` — Change Directory
 ```bash
@@ -160,3 +166,4 @@ git push origin main          # push main branch to GitHub
 git push -u origin main       # push and set upstream tracking
 git push origin --all         # push all branches to GitHub
 ```
+
