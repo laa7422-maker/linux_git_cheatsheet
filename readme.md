@@ -9,4 +9,8 @@ A quick-reference guide to essential Linux and Git commands.
 - Git Commands
 
 ---
+### `ls` — List Directory Contents
+```bash
+ls        # basic list
+ls -la    # detailed list including hidden files
 
