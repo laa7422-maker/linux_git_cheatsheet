@@ -35,3 +35,8 @@ rm -rf myfolder/      # force-delete a directory recursively
 cp file.txt backup.txt        # copy a file
 cp -r folder/ newfolder/      # copy a directory recursively
 
+### `mv` — Move or Rename Files
+```bash
+mv old.txt new.txt       # rename a file
+mv file.txt /tmp/        # move file to another directory
+
